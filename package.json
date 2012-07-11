@@ -20,8 +20,8 @@
   },
 
   "dependencies": {
-    "hubot": "2.2.0",
-    "hubot-scripts": ">=2.0.8",
+    "hubot": "2.3.0",
+    "hubot-scripts": ">=2.3.0",
     "hubot-irc": ">=0.0.7",
     "optparse": "1.0.3",
     "xml2js": "0.1.x",
