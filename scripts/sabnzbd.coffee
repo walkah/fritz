@@ -1,8 +1,10 @@
-# Integration with SABnzbd
+# Description:
+#   Integration with SABnzbd
 #
-# downloads - show the download queue
-# download pause - pause the download queue
-# download resume - resume downloading
+# Commands:
+#   hubot downloads - show the download queue
+#   hubot download pause - pause the download queue
+#   hubot download resume - resume downloading
 
 module.exports = (robot) ->
   robot.respond /downloads/i, (msg) ->
@@ -20,10 +22,9 @@ module.exports = (robot) ->
       msg.send "Here we go!"
 
 SABnzbd = (msg, query, cb) ->
-  sab_host = process.env.HUBOT_SABNZBD_HOST
-  sab_port = process.env.HUBOT_SABNZBD_PORT
+  sab_url = process.env.HUBOT_SABNZBD_URL
   sab_key  = process.env.HUBOT_SABNZBD_KEY
-  msg.http("http://#{sab_host}:#{sab_port}/api?apikey=#{sab_key}")
+  msg.http("#{sab_url}/api?apikey=#{sab_key}")
     .query(query)
     .get() (err, res, body) ->
       cb JSON.parse(body)

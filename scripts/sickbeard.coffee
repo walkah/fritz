@@ -1,6 +1,8 @@
-# Interact with a SickBeard server
+# Description:
+#   Interact with a SickBeard server
 #
-# tv (today|soon|later) - Return upcoming shows
+# Commands:
+#   hubot tv (today|soon|later) - Return upcoming shows
 
 module.exports = (robot) ->
   robot.respond /tv (soon|today|later)/i, (msg) ->
@@ -12,10 +14,9 @@ module.exports = (robot) ->
       msg.send output
 
 SickBeard = (msg, query, cb) ->
-  sb_host = process.env.HUBOT_SICKBEARD_HOST
-  sb_port = process.env.HUBOT_SICKBEARD_PORT
+  sb_url = process.env.HUBOT_SICKBEARD_URL
   sb_key  = process.env.HUBOT_SICKBEARD_KEY
-  msg.http("http://#{sb_host}:#{sb_port}/api/#{sb_key}/")
+  msg.http("#{sb_url}/api/#{sb_key}/")
     .query(query)
     .get() (err, res, body) ->
       cb JSON.parse(body)
