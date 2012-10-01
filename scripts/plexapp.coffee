@@ -1,7 +1,9 @@
-# Script to interact with plex media server
+# Description:
+#   Script to interact with plex media server
 #
-# shows - show TV shows that are "on deck"
-# movies - list available, unwatched movies
+# Commands:
+#   hubot shows - show TV shows that are "on deck"
+#   hubot movies - list available, unwatched movies
 
 parser = require("xml2js").Parser
 
