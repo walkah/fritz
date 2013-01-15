@@ -11,17 +11,17 @@
 
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/github/hubot.git"
+    "url" : "http://github.com/walkah/fritz.git"
   },
 
   "engines": {
-    "node": "0.6.x",
-    "npm":  "1.0.x"
+    "node": "0.8.x",
+    "npm":  "1.1.x"
   },
 
   "dependencies": {
-    "hubot": "2.3.4",
-    "hubot-scripts": "2.2.2",
+    "hubot": "2.4.2",
+    "hubot-scripts": "2.4.1",
     "hubot-irc": "0.1.4",
     "optparse": "1.0.3",
     "xml2js": "0.1.x",
