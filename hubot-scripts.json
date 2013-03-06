@@ -1,1 +1,1 @@
-["factoid.coffee", "twitter.coffee", "stocks.coffee", "weather.coffee", "github-pulls.coffee", "github-issues.coffee", "redis-brain.coffee"]
+["factoid.coffee", "twitter.coffee", "stocks.coffee", "weather.coffee", "github-commits.coffee", "github-pulls.coffee", "github-issues.coffee", "redis-brain.coffee"]
