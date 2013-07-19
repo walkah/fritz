@@ -20,9 +20,9 @@
   },
 
   "dependencies": {
-    "hubot": "2.5.1",
-    "hubot-scripts": "2.4.3",
-    "hubot-irc": "0.1.13",
+    "hubot": "2.6.0",
+    "hubot-scripts": "2.5.0",
+    "hubot-irc": "0.1.17",
     "optparse": "1.0.3",
     "xml2js": "0.1.x",
     "jsdom": "0.2.14",
@@ -34,4 +34,3 @@
     "gitio": "1.0.1"
   }
 }
-
