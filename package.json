@@ -31,7 +31,7 @@
     "underscore.string": "2.2.0rc",
     "url": "",
     "querystring": "",
-    "gitio": "1.0.1"
+    "gitio": "1.0.1",
     "pg": "~0.10.2"
   }
 }
