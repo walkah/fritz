@@ -20,9 +20,9 @@
   },
 
   "dependencies": {
-    "hubot": "2.6.0",
-    "hubot-scripts": "2.5.0",
-    "hubot-irc": "0.1.17",
+    "hubot": "2.6.3",
+    "hubot-scripts": "2.5.6",
+    "hubot-irc": "0.1.19",
     "optparse": "1.0.3",
     "xml2js": "0.1.x",
     "jsdom": "0.6.0",
