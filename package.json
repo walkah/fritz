@@ -20,7 +20,7 @@
   },
 
   "dependencies": {
-    "hubot": "2.6.4",
+    "hubot": "2.7.1",
     "hubot-scripts": "2.5.7",
     "hubot-irc": "0.1.24",
     "hubot-plex": "1.0.0",
