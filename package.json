@@ -1,24 +1,23 @@
 {
-  "name":        "fritz",
-  "version":     "2.1.4",
-  "author":      "GitHub Inc.",
-  "keywords":    "github hubot irc bot",
+  "name": "fritz",
+  "version": "2.1.4",
+  "author": "GitHub Inc.",
+  "keywords": "github hubot irc bot",
   "description": "A simple helpful Robot for your Company",
-  "licenses":     [{
-    "type":       "MIT",
-    "url":        "http://github.com/github/hubot/raw/master/LICENSE"
-  }],
-
-  "repository" : {
-    "type" : "git",
-    "url" : "http://github.com/walkah/fritz.git"
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/github/hubot/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/walkah/fritz.git"
   },
-
   "engines": {
     "node": "0.10.x",
-    "npm":  "1.3.x"
+    "npm": "1.3.x"
   },
-
   "dependencies": {
     "hubot": "2.7.2",
     "hubot-scripts": "2.5.11",
@@ -32,7 +31,7 @@
     "underscore.string": "2.2.0rc",
     "url": "",
     "querystring": "",
-    "gitio": "1.0.1",
-    "pg": "~0.10.2"
+    "pg": "~0.10.2",
+    "gitio2": "^2.0.0"
   }
 }
