@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n fritz -l !
+web: bin/hubot -a slack -n fritz -l !
