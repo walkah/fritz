@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n fritz -l !
+web: bin/hubot --adapter slack 
