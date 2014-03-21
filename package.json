@@ -2,7 +2,7 @@
   "name": "fritz",
   "version": "2.1.4",
   "author": "GitHub Inc.",
-  "keywords": "github hubot irc bot",
+  "keywords": "github hubot slack bot",
   "description": "A simple helpful Robot for your Company",
   "licenses": [
     {
