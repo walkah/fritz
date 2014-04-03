@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "hubot": "2.7.2",
-    "hubot-scripts": "walkah/hubot-scripts",
+    "hubot-scripts": "2.5.11",
     "hubot-slack": "2.1.0",
     "hubot-plex": "1.0.0",
     "optparse": "1.0.3",
