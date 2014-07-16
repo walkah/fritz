@@ -1,4 +1,4 @@
-["factoid.coffee", "remind.coffee", "weather.coffee",
+["factoid.coffee", "remind.coffee", "weather.coffee", "lastfm_np.coffee",
  "github-commits.coffee", "github-pulls.coffee", "github-issues.coffee",
  "bitbucket.coffee", "jenkins-notifier.coffee",
  "pg-brain.coffee"]
