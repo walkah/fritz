@@ -1,6 +1,4 @@
 [
   "factoid.coffee",
-  "lastfm_np.coffee",
-  "github-pulls.coffee",
-  "github-issues.coffee"
+  "lastfm_np.coffee"
 ]
