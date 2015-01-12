@@ -1,3 +1,6 @@
-["factoid.coffee", "lastfm_np.coffee",
- "github-pulls.coffee", "github-issues.coffee",
- "pg-brain.coffee"]
+[
+  "factoid.coffee",
+  "lastfm_np.coffee",
+  "github-pulls.coffee",
+  "github-issues.coffee"
+]
