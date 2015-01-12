@@ -1,1 +1,4 @@
-["hubot-plex"]
+[
+  "hubot-plex",
+  "hubot-plusplus"
+]
