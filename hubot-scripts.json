@@ -1,4 +1,5 @@
 [
   "factoid.coffee",
-  "lastfm_np.coffee"
+  "lastfm_np.coffee",
+  "giphy.coffee"
 ]
