@@ -25,6 +25,7 @@
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-karma-classic": "^1.0.1",
+    "hubot-nest": "0.0.1",
     "hubot-plex": "1.0.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
