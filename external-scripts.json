@@ -4,7 +4,7 @@
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
   "hubot-plex",
-  "hubot-karma-classic",
   "hubot-darksky",
-  "hubot-nest"
+  "hubot-nest",
+  "hubot-plusplus"
 ]

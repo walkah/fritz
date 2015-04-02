@@ -24,9 +24,9 @@
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
-    "hubot-karma-classic": "^1.0.1",
     "hubot-nest": "0.0.1",
     "hubot-plex": "1.0.0",
+    "hubot-plusplus": "^1.1.5",
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
     "hubot-slack": "^3.3.0"
