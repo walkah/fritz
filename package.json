@@ -22,6 +22,7 @@
     "hubot": "^2.11.4",
     "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
+    "hubot-fliptable": "^1.2.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-nest": "0.0.1",
