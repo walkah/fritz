@@ -19,7 +19,7 @@
     "npm": "2.1.x"
   },
   "dependencies": {
-    "hubot": "^2.11.4",
+    "hubot": "^2.12.0",
     "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-fliptable": "^1.2.0",
