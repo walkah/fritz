@@ -19,7 +19,7 @@
     "npm": "2.1.x"
   },
   "dependencies": {
-    "hubot": "^2.12.0",
+    "hubot": "^2.13.2",
     "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-fliptable": "^1.2.0",
@@ -28,8 +28,8 @@
     "hubot-nest": "0.0.1",
     "hubot-plex": "1.0.0",
     "hubot-plusplus": "^1.1.5",
-    "hubot-redis-brain": "0.0.2",
-    "hubot-scripts": "^2.5.16",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-scripts": "^2.16.1",
     "hubot-slack": "^3.3.0"
   }
 }
