@@ -15,8 +15,8 @@
     "url": "http://github.com/walkah/fritz.git"
   },
   "engines": {
-    "node": "0.10.x",
-    "npm": "2.1.x"
+    "node": "4.1.x",
+    "npm": "2.14.x"
   },
   "dependencies": {
     "hubot": "^2.16.0",
@@ -27,7 +27,7 @@
     "hubot-heroku-keepalive": "1.0.0",
     "hubot-nest": "0.0.1",
     "hubot-plex": "1.0.0",
-    "hubot-plusplus": "^1.1.5",
+    "hubot-plusplus": "^1.1.6",
     "hubot-redis-brain": "0.0.3",
     "hubot-scripts": "^2.16.2",
     "hubot-slack": "^3.3.0"
